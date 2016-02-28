@@ -1,2 +1,2 @@
 # hello-world
-First repository
+Welcome to my first repository. Here I am testing out how GitHub works.
